@@ -1,0 +1,568 @@
+E:\Study\Programs\C Sharp\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.exe
+E:\Study\Programs\C Sharp\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.deps.json
+E:\Study\Programs\C Sharp\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.runtimeconfig.json
+E:\Study\Programs\C Sharp\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.runtimeconfig.dev.json
+E:\Study\Programs\C Sharp\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.dll
+E:\Study\Programs\C Sharp\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\ref\MedicineStorePOSAndStockManagement.dll
+E:\Study\Programs\C Sharp\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.pdb
+E:\Study\Programs\C Sharp\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.csprojAssemblyReference.cache
+E:\Study\Programs\C Sharp\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.Form1.resources
+E:\Study\Programs\C Sharp\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.Properties.Resources.resources
+E:\Study\Programs\C Sharp\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.csproj.GenerateResource.cache
+E:\Study\Programs\C Sharp\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\Programs\C Sharp\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.AssemblyInfoInputs.cache
+E:\Study\Programs\C Sharp\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.AssemblyInfo.cs
+E:\Study\Programs\C Sharp\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.csproj.CoreCompileInputs.cache
+E:\Study\Programs\C Sharp\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.dll
+E:\Study\Programs\C Sharp\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\ref\MedicineStorePOSAndStockManagement.dll
+E:\Study\Programs\C Sharp\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.pdb
+E:\Study\Programs\C Sharp\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.genruntimeconfig.cache
+E:\Study\Programs\C Sharp\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+E:\Study\Programs\C Sharp\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Study\Programs\C Sharp\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+E:\Study\Programs\C Sharp\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+E:\Study\Programs\C Sharp\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Study\Programs\C Sharp\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Study\Programs\C Sharp\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.csproj.CopyComplete
+C:\Users\Dell\Desktop\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.exe
+C:\Users\Dell\Desktop\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.deps.json
+C:\Users\Dell\Desktop\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.runtimeconfig.json
+C:\Users\Dell\Desktop\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.dll
+C:\Users\Dell\Desktop\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\ref\MedicineStorePOSAndStockManagement.dll
+C:\Users\Dell\Desktop\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.pdb
+C:\Users\Dell\Desktop\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Dell\Desktop\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Dell\Desktop\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Dell\Desktop\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Dell\Desktop\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dell\Desktop\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dell\Desktop\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.Properties.Resources.resources
+C:\Users\Dell\Desktop\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.AssemblyInfo.cs
+C:\Users\Dell\Desktop\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.csproj.CopyComplete
+C:\Users\Dell\Desktop\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.dll
+C:\Users\Dell\Desktop\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\ref\MedicineStorePOSAndStockManagement.dll
+C:\Users\Dell\Desktop\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.pdb
+C:\Users\Dell\Desktop\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.genruntimeconfig.cache
+C:\Users\Dell\Desktop\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.FormOwner.resources
+C:\Users\Dell\Desktop\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.Login.resources
+E:\Study\Ayesha\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.csprojAssemblyReference.cache
+E:\Study\Ayesha\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.dll
+E:\Study\Ayesha\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\ref\MedicineStorePOSAndStockManagement.dll
+E:\Study\Ayesha\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.pdb
+E:\Study\Ayesha\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.exe
+E:\Study\Ayesha\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.deps.json
+E:\Study\Ayesha\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.runtimeconfig.json
+E:\Study\Ayesha\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.runtimeconfig.dev.json
+E:\Study\Ayesha\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.dll
+E:\Study\Ayesha\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\ref\MedicineStorePOSAndStockManagement.dll
+E:\Study\Ayesha\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.pdb
+E:\Study\Ayesha\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+E:\Study\Ayesha\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Study\Ayesha\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+E:\Study\Ayesha\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+E:\Study\Ayesha\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Study\Ayesha\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Study\Ayesha\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.Manager.resources
+E:\Study\Ayesha\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.Properties.Resources.resources
+E:\Study\Ayesha\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.csproj.GenerateResource.cache
+E:\Study\Ayesha\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\Ayesha\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.AssemblyInfoInputs.cache
+E:\Study\Ayesha\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.AssemblyInfo.cs
+E:\Study\Ayesha\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.csproj.CoreCompileInputs.cache
+E:\Study\Ayesha\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.csproj.CopyComplete
+E:\Study\Ayesha\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.genruntimeconfig.cache
+E:\Study\Ayesha\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.FormOwner.resources
+E:\Study\Ayesha\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.Login.resources
+C:\Users\Dell\Downloads\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.exe
+C:\Users\Dell\Downloads\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.deps.json
+C:\Users\Dell\Downloads\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.runtimeconfig.json
+C:\Users\Dell\Downloads\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.runtimeconfig.dev.json
+C:\Users\Dell\Downloads\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.dll
+C:\Users\Dell\Downloads\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\ref\MedicineStorePOSAndStockManagement.dll
+C:\Users\Dell\Downloads\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.pdb
+C:\Users\Dell\Downloads\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Dell\Downloads\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Dell\Downloads\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Dell\Downloads\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Dell\Downloads\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dell\Downloads\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dell\Downloads\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.csproj.AssemblyReference.cache
+C:\Users\Dell\Downloads\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.FormOwner.resources
+C:\Users\Dell\Downloads\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.Login.resources
+C:\Users\Dell\Downloads\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.Manager.resources
+C:\Users\Dell\Downloads\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.Properties.Resources.resources
+C:\Users\Dell\Downloads\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.csproj.GenerateResource.cache
+C:\Users\Dell\Downloads\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Downloads\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.AssemblyInfoInputs.cache
+C:\Users\Dell\Downloads\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.AssemblyInfo.cs
+C:\Users\Dell\Downloads\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.csproj.CopyComplete
+C:\Users\Dell\Downloads\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.dll
+C:\Users\Dell\Downloads\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\ref\MedicineStorePOSAndStockManagement.dll
+C:\Users\Dell\Downloads\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.pdb
+C:\Users\Dell\Downloads\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.genruntimeconfig.cache
+E:\Study\anik\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.exe
+E:\Study\anik\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.deps.json
+E:\Study\anik\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.runtimeconfig.json
+E:\Study\anik\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.runtimeconfig.dev.json
+E:\Study\anik\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.dll
+E:\Study\anik\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\ref\MedicineStorePOSAndStockManagement.dll
+E:\Study\anik\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.pdb
+E:\Study\anik\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+E:\Study\anik\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Study\anik\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+E:\Study\anik\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+E:\Study\anik\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Study\anik\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Study\anik\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.csprojAssemblyReference.cache
+E:\Study\anik\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.FormOwner.resources
+E:\Study\anik\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.Login.resources
+E:\Study\anik\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.Manager.resources
+E:\Study\anik\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.Properties.Resources.resources
+E:\Study\anik\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.csproj.GenerateResource.cache
+E:\Study\anik\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\anik\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.AssemblyInfoInputs.cache
+E:\Study\anik\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.AssemblyInfo.cs
+E:\Study\anik\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.csproj.CoreCompileInputs.cache
+E:\Study\anik\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.csproj.CopyComplete
+E:\Study\anik\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.dll
+E:\Study\anik\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\ref\MedicineStorePOSAndStockManagement.dll
+E:\Study\anik\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.pdb
+E:\Study\anik\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.genruntimeconfig.cache
+C:\Users\Dell\Desktop\New folder\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.exe
+C:\Users\Dell\Desktop\New folder\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.deps.json
+C:\Users\Dell\Desktop\New folder\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.runtimeconfig.json
+C:\Users\Dell\Desktop\New folder\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\New folder\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.dll
+C:\Users\Dell\Desktop\New folder\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\ref\MedicineStorePOSAndStockManagement.dll
+C:\Users\Dell\Desktop\New folder\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.pdb
+C:\Users\Dell\Desktop\New folder\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Dell\Desktop\New folder\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Dell\Desktop\New folder\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Dell\Desktop\New folder\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Dell\Desktop\New folder\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dell\Desktop\New folder\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dell\Desktop\New folder\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\New folder\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.FormManager.resources
+C:\Users\Dell\Desktop\New folder\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.FormOwner.resources
+C:\Users\Dell\Desktop\New folder\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.Login.resources
+C:\Users\Dell\Desktop\New folder\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.Properties.Resources.resources
+C:\Users\Dell\Desktop\New folder\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\New folder\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\New folder\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\New folder\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.AssemblyInfo.cs
+C:\Users\Dell\Desktop\New folder\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\New folder\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.csproj.CopyComplete
+C:\Users\Dell\Desktop\New folder\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.dll
+C:\Users\Dell\Desktop\New folder\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\ref\MedicineStorePOSAndStockManagement.dll
+C:\Users\Dell\Desktop\New folder\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.pdb
+C:\Users\Dell\Desktop\New folder\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.genruntimeconfig.cache
+C:\Users\Dell\Desktop\New folder - Copy\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.exe
+C:\Users\Dell\Desktop\New folder - Copy\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.deps.json
+C:\Users\Dell\Desktop\New folder - Copy\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.runtimeconfig.json
+C:\Users\Dell\Desktop\New folder - Copy\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\New folder - Copy\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.dll
+C:\Users\Dell\Desktop\New folder - Copy\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\ref\MedicineStorePOSAndStockManagement.dll
+C:\Users\Dell\Desktop\New folder - Copy\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.pdb
+C:\Users\Dell\Desktop\New folder - Copy\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Dell\Desktop\New folder - Copy\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Dell\Desktop\New folder - Copy\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Dell\Desktop\New folder - Copy\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Dell\Desktop\New folder - Copy\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dell\Desktop\New folder - Copy\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dell\Desktop\New folder - Copy\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\New folder - Copy\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.FormManager.resources
+C:\Users\Dell\Desktop\New folder - Copy\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.FormOwner.resources
+C:\Users\Dell\Desktop\New folder - Copy\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.Login.resources
+C:\Users\Dell\Desktop\New folder - Copy\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.Properties.Resources.resources
+C:\Users\Dell\Desktop\New folder - Copy\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\New folder - Copy\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\New folder - Copy\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\New folder - Copy\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.AssemblyInfo.cs
+C:\Users\Dell\Desktop\New folder - Copy\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\New folder - Copy\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.csproj.CopyComplete
+C:\Users\Dell\Desktop\New folder - Copy\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.dll
+C:\Users\Dell\Desktop\New folder - Copy\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\ref\MedicineStorePOSAndStockManagement.dll
+C:\Users\Dell\Desktop\New folder - Copy\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.pdb
+C:\Users\Dell\Desktop\New folder - Copy\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.genruntimeconfig.cache
+C:\Users\Dell\Desktop\New folder - Copy\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.FormSalesman.resources
+C:\Users\Dell\Desktop\New folder - Copy\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.FormOrder.resources
+C:\Users\Tonmoy Saha\Desktop\project module\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.exe
+C:\Users\Tonmoy Saha\Desktop\project module\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.deps.json
+C:\Users\Tonmoy Saha\Desktop\project module\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.runtimeconfig.json
+C:\Users\Tonmoy Saha\Desktop\project module\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.runtimeconfig.dev.json
+C:\Users\Tonmoy Saha\Desktop\project module\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.dll
+C:\Users\Tonmoy Saha\Desktop\project module\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\ref\MedicineStorePOSAndStockManagement.dll
+C:\Users\Tonmoy Saha\Desktop\project module\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.pdb
+C:\Users\Tonmoy Saha\Desktop\project module\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Tonmoy Saha\Desktop\project module\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Tonmoy Saha\Desktop\project module\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Tonmoy Saha\Desktop\project module\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Tonmoy Saha\Desktop\project module\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Tonmoy Saha\Desktop\project module\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Tonmoy Saha\Desktop\project module\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.csprojAssemblyReference.cache
+C:\Users\Tonmoy Saha\Desktop\project module\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.FormManager.resources
+C:\Users\Tonmoy Saha\Desktop\project module\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.FormOrder.resources
+C:\Users\Tonmoy Saha\Desktop\project module\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.FormOwner.resources
+C:\Users\Tonmoy Saha\Desktop\project module\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.FormSalesman.resources
+C:\Users\Tonmoy Saha\Desktop\project module\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.Login.resources
+C:\Users\Tonmoy Saha\Desktop\project module\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.csproj.GenerateResource.cache
+C:\Users\Tonmoy Saha\Desktop\project module\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tonmoy Saha\Desktop\project module\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.AssemblyInfoInputs.cache
+C:\Users\Tonmoy Saha\Desktop\project module\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.AssemblyInfo.cs
+C:\Users\Tonmoy Saha\Desktop\project module\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.csproj.CoreCompileInputs.cache
+C:\Users\Tonmoy Saha\Desktop\project module\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.csproj.CopyComplete
+C:\Users\Tonmoy Saha\Desktop\project module\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.dll
+C:\Users\Tonmoy Saha\Desktop\project module\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\ref\MedicineStorePOSAndStockManagement.dll
+C:\Users\Tonmoy Saha\Desktop\project module\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.pdb
+C:\Users\Tonmoy Saha\Desktop\project module\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.genruntimeconfig.cache
+C:\Users\Dell\Desktop\Mod11\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.exe
+C:\Users\Dell\Desktop\Mod11\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.deps.json
+C:\Users\Dell\Desktop\Mod11\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.runtimeconfig.json
+C:\Users\Dell\Desktop\Mod11\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\Mod11\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.dll
+C:\Users\Dell\Desktop\Mod11\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\ref\MedicineStorePOSAndStockManagement.dll
+C:\Users\Dell\Desktop\Mod11\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.pdb
+C:\Users\Dell\Desktop\Mod11\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Dell\Desktop\Mod11\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Dell\Desktop\Mod11\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Dell\Desktop\Mod11\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Dell\Desktop\Mod11\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dell\Desktop\Mod11\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dell\Desktop\Mod11\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Mod11\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.FormManager.resources
+C:\Users\Dell\Desktop\Mod11\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.FormOrder.resources
+C:\Users\Dell\Desktop\Mod11\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.FormOwner.resources
+C:\Users\Dell\Desktop\Mod11\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.FormReceipt.resources
+C:\Users\Dell\Desktop\Mod11\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.FormSalesman.resources
+C:\Users\Dell\Desktop\Mod11\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.Login.resources
+C:\Users\Dell\Desktop\Mod11\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.Properties.Resources.resources
+C:\Users\Dell\Desktop\Mod11\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\Mod11\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\Mod11\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Mod11\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Mod11\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Mod11\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.csproj.CopyComplete
+C:\Users\Dell\Desktop\Mod11\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.dll
+C:\Users\Dell\Desktop\Mod11\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\ref\MedicineStorePOSAndStockManagement.dll
+C:\Users\Dell\Desktop\Mod11\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.pdb
+C:\Users\Dell\Desktop\Mod11\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.genruntimeconfig.cache
+C:\Users\Tonmoy Saha\Desktop\proj\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.exe
+C:\Users\Tonmoy Saha\Desktop\proj\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.deps.json
+C:\Users\Tonmoy Saha\Desktop\proj\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.runtimeconfig.json
+C:\Users\Tonmoy Saha\Desktop\proj\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.runtimeconfig.dev.json
+C:\Users\Tonmoy Saha\Desktop\proj\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.dll
+C:\Users\Tonmoy Saha\Desktop\proj\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\ref\MedicineStorePOSAndStockManagement.dll
+C:\Users\Tonmoy Saha\Desktop\proj\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.pdb
+C:\Users\Tonmoy Saha\Desktop\proj\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Tonmoy Saha\Desktop\proj\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Tonmoy Saha\Desktop\proj\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Tonmoy Saha\Desktop\proj\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Tonmoy Saha\Desktop\proj\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Tonmoy Saha\Desktop\proj\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Tonmoy Saha\Desktop\proj\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.csprojAssemblyReference.cache
+C:\Users\Tonmoy Saha\Desktop\proj\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.FormManager.resources
+C:\Users\Tonmoy Saha\Desktop\proj\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.FormOrder.resources
+C:\Users\Tonmoy Saha\Desktop\proj\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.FormOwner.resources
+C:\Users\Tonmoy Saha\Desktop\proj\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.FormReceipt.resources
+C:\Users\Tonmoy Saha\Desktop\proj\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.FormSalesman.resources
+C:\Users\Tonmoy Saha\Desktop\proj\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.Login.resources
+C:\Users\Tonmoy Saha\Desktop\proj\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.Properties.Resources.resources
+C:\Users\Tonmoy Saha\Desktop\proj\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.csproj.GenerateResource.cache
+C:\Users\Tonmoy Saha\Desktop\proj\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tonmoy Saha\Desktop\proj\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.AssemblyInfoInputs.cache
+C:\Users\Tonmoy Saha\Desktop\proj\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.AssemblyInfo.cs
+C:\Users\Tonmoy Saha\Desktop\proj\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.csproj.CoreCompileInputs.cache
+C:\Users\Tonmoy Saha\Desktop\proj\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.csproj.CopyComplete
+C:\Users\Tonmoy Saha\Desktop\proj\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.dll
+C:\Users\Tonmoy Saha\Desktop\proj\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\ref\MedicineStorePOSAndStockManagement.dll
+C:\Users\Tonmoy Saha\Desktop\proj\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.pdb
+C:\Users\Tonmoy Saha\Desktop\proj\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.genruntimeconfig.cache
+C:\Users\Dell\Desktop\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.FormManager.resources
+C:\Users\Dell\Desktop\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.FormOrder.resources
+C:\Users\Dell\Desktop\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.FormReceipt.resources
+C:\Users\Dell\Desktop\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.FormSalesman.resources
+C:\Users\Tonmoy Saha\Desktop\project module\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.FormReceipt.resources
+C:\Users\Dell\Desktop\New folder (2)\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.exe
+C:\Users\Dell\Desktop\New folder (2)\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.deps.json
+C:\Users\Dell\Desktop\New folder (2)\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.runtimeconfig.json
+C:\Users\Dell\Desktop\New folder (2)\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\New folder (2)\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.dll
+C:\Users\Dell\Desktop\New folder (2)\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\ref\MedicineStorePOSAndStockManagement.dll
+C:\Users\Dell\Desktop\New folder (2)\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.pdb
+C:\Users\Dell\Desktop\New folder (2)\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Dell\Desktop\New folder (2)\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Dell\Desktop\New folder (2)\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Dell\Desktop\New folder (2)\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Dell\Desktop\New folder (2)\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dell\Desktop\New folder (2)\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dell\Desktop\New folder (2)\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\New folder (2)\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.FormManager.resources
+C:\Users\Dell\Desktop\New folder (2)\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.FormOrder.resources
+C:\Users\Dell\Desktop\New folder (2)\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.FormOwner.resources
+C:\Users\Dell\Desktop\New folder (2)\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.FormReceipt.resources
+C:\Users\Dell\Desktop\New folder (2)\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.FormSalesman.resources
+C:\Users\Dell\Desktop\New folder (2)\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.Login.resources
+C:\Users\Dell\Desktop\New folder (2)\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.Properties.Resources.resources
+C:\Users\Dell\Desktop\New folder (2)\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\New folder (2)\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\New folder (2)\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\New folder (2)\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.AssemblyInfo.cs
+C:\Users\Dell\Desktop\New folder (2)\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\New folder (2)\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.csproj.CopyComplete
+C:\Users\Dell\Desktop\New folder (2)\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.dll
+C:\Users\Dell\Desktop\New folder (2)\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\ref\MedicineStorePOSAndStockManagement.dll
+C:\Users\Dell\Desktop\New folder (2)\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.pdb
+C:\Users\Dell\Desktop\New folder (2)\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.genruntimeconfig.cache
+C:\Users\Dell\Desktop\New folder (3)\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.exe
+C:\Users\Dell\Desktop\New folder (3)\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.deps.json
+C:\Users\Dell\Desktop\New folder (3)\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.runtimeconfig.json
+C:\Users\Dell\Desktop\New folder (3)\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\New folder (3)\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.dll
+C:\Users\Dell\Desktop\New folder (3)\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\ref\MedicineStorePOSAndStockManagement.dll
+C:\Users\Dell\Desktop\New folder (3)\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.pdb
+C:\Users\Dell\Desktop\New folder (3)\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Dell\Desktop\New folder (3)\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Dell\Desktop\New folder (3)\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Dell\Desktop\New folder (3)\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Dell\Desktop\New folder (3)\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dell\Desktop\New folder (3)\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dell\Desktop\New folder (3)\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\New folder (3)\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.FormManager.resources
+C:\Users\Dell\Desktop\New folder (3)\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.FormOrder.resources
+C:\Users\Dell\Desktop\New folder (3)\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.FormOwner.resources
+C:\Users\Dell\Desktop\New folder (3)\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.FormReceipt.resources
+C:\Users\Dell\Desktop\New folder (3)\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.FormSalesman.resources
+C:\Users\Dell\Desktop\New folder (3)\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.Login.resources
+C:\Users\Dell\Desktop\New folder (3)\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.Properties.Resources.resources
+C:\Users\Dell\Desktop\New folder (3)\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\New folder (3)\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\New folder (3)\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\New folder (3)\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.AssemblyInfo.cs
+C:\Users\Dell\Desktop\New folder (3)\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\New folder (3)\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.csproj.CopyComplete
+C:\Users\Dell\Desktop\New folder (3)\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.dll
+C:\Users\Dell\Desktop\New folder (3)\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\ref\MedicineStorePOSAndStockManagement.dll
+C:\Users\Dell\Desktop\New folder (3)\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.pdb
+C:\Users\Dell\Desktop\New folder (3)\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.genruntimeconfig.cache
+C:\Users\Dell\Desktop\C# Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\C# Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.dll
+C:\Users\Dell\Desktop\C# Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\ref\MedicineStorePOSAndStockManagement.dll
+C:\Users\Dell\Desktop\C# Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.pdb
+C:\Users\Dell\Desktop\C# Project\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.exe
+C:\Users\Dell\Desktop\C# Project\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.deps.json
+C:\Users\Dell\Desktop\C# Project\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.runtimeconfig.json
+C:\Users\Dell\Desktop\C# Project\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\C# Project\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.dll
+C:\Users\Dell\Desktop\C# Project\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\ref\MedicineStorePOSAndStockManagement.dll
+C:\Users\Dell\Desktop\C# Project\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.pdb
+C:\Users\Dell\Desktop\C# Project\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Dell\Desktop\C# Project\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Dell\Desktop\C# Project\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Dell\Desktop\C# Project\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Dell\Desktop\C# Project\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dell\Desktop\C# Project\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dell\Desktop\C# Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\C# Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\C# Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.AssemblyInfo.cs
+C:\Users\Dell\Desktop\C# Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\C# Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.csproj.CopyComplete
+C:\Users\Dell\Desktop\C# Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.genruntimeconfig.cache
+C:\Users\Dell\Desktop\C# Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.FormManager.resources
+C:\Users\Dell\Desktop\C# Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.FormOrder.resources
+C:\Users\Dell\Desktop\C# Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.FormOwner.resources
+C:\Users\Dell\Desktop\C# Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.FormSalesman.resources
+C:\Users\Dell\Desktop\C# Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\C# Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.FormReceipt.resources
+C:\Users\Dell\Desktop\FinalModule_Project\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.exe
+C:\Users\Dell\Desktop\FinalModule_Project\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.deps.json
+C:\Users\Dell\Desktop\FinalModule_Project\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.runtimeconfig.json
+C:\Users\Dell\Desktop\FinalModule_Project\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\FinalModule_Project\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.dll
+C:\Users\Dell\Desktop\FinalModule_Project\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\ref\MedicineStorePOSAndStockManagement.dll
+C:\Users\Dell\Desktop\FinalModule_Project\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.pdb
+C:\Users\Dell\Desktop\FinalModule_Project\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Dell\Desktop\FinalModule_Project\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Dell\Desktop\FinalModule_Project\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Dell\Desktop\FinalModule_Project\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Dell\Desktop\FinalModule_Project\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dell\Desktop\FinalModule_Project\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dell\Desktop\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.FormManager.resources
+C:\Users\Dell\Desktop\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.FormOrder.resources
+C:\Users\Dell\Desktop\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.FormOwner.resources
+C:\Users\Dell\Desktop\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.FormReceipt.resources
+C:\Users\Dell\Desktop\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.FormSalesman.resources
+C:\Users\Dell\Desktop\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.Login.resources
+C:\Users\Dell\Desktop\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.AssemblyInfo.cs
+C:\Users\Dell\Desktop\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.csproj.CopyComplete
+C:\Users\Dell\Desktop\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.dll
+C:\Users\Dell\Desktop\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\ref\MedicineStorePOSAndStockManagement.dll
+C:\Users\Dell\Desktop\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.pdb
+C:\Users\Dell\Desktop\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.genruntimeconfig.cache
+C:\Users\Dell\Desktop\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.Properties.Resources.resources
+C:\Users\Tonmoy Saha\Desktop\proj\FinalModule_Project\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.exe
+C:\Users\Tonmoy Saha\Desktop\proj\FinalModule_Project\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.deps.json
+C:\Users\Tonmoy Saha\Desktop\proj\FinalModule_Project\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.runtimeconfig.json
+C:\Users\Tonmoy Saha\Desktop\proj\FinalModule_Project\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.runtimeconfig.dev.json
+C:\Users\Tonmoy Saha\Desktop\proj\FinalModule_Project\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.dll
+C:\Users\Tonmoy Saha\Desktop\proj\FinalModule_Project\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\ref\MedicineStorePOSAndStockManagement.dll
+C:\Users\Tonmoy Saha\Desktop\proj\FinalModule_Project\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.pdb
+C:\Users\Tonmoy Saha\Desktop\proj\FinalModule_Project\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Tonmoy Saha\Desktop\proj\FinalModule_Project\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Tonmoy Saha\Desktop\proj\FinalModule_Project\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Tonmoy Saha\Desktop\proj\FinalModule_Project\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Tonmoy Saha\Desktop\proj\FinalModule_Project\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Tonmoy Saha\Desktop\proj\FinalModule_Project\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Tonmoy Saha\Desktop\proj\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.csprojAssemblyReference.cache
+C:\Users\Tonmoy Saha\Desktop\proj\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.FormManager.resources
+C:\Users\Tonmoy Saha\Desktop\proj\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.FormOrder.resources
+C:\Users\Tonmoy Saha\Desktop\proj\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.FormOwner.resources
+C:\Users\Tonmoy Saha\Desktop\proj\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.FormReceipt.resources
+C:\Users\Tonmoy Saha\Desktop\proj\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.FormSalesman.resources
+C:\Users\Tonmoy Saha\Desktop\proj\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.Login.resources
+C:\Users\Tonmoy Saha\Desktop\proj\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.Properties.Resources.resources
+C:\Users\Tonmoy Saha\Desktop\proj\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.csproj.GenerateResource.cache
+C:\Users\Tonmoy Saha\Desktop\proj\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tonmoy Saha\Desktop\proj\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.AssemblyInfoInputs.cache
+C:\Users\Tonmoy Saha\Desktop\proj\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.AssemblyInfo.cs
+C:\Users\Tonmoy Saha\Desktop\proj\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.csproj.CoreCompileInputs.cache
+C:\Users\Tonmoy Saha\Desktop\proj\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.csproj.CopyComplete
+C:\Users\Tonmoy Saha\Desktop\proj\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.dll
+C:\Users\Tonmoy Saha\Desktop\proj\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\ref\MedicineStorePOSAndStockManagement.dll
+C:\Users\Tonmoy Saha\Desktop\proj\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.pdb
+C:\Users\Tonmoy Saha\Desktop\proj\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.genruntimeconfig.cache
+C:\Users\Dell\Desktop\Final_Project_OOP2\FinalModule_Project\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.exe
+C:\Users\Dell\Desktop\Final_Project_OOP2\FinalModule_Project\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.deps.json
+C:\Users\Dell\Desktop\Final_Project_OOP2\FinalModule_Project\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.runtimeconfig.json
+C:\Users\Dell\Desktop\Final_Project_OOP2\FinalModule_Project\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\Final_Project_OOP2\FinalModule_Project\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.dll
+C:\Users\Dell\Desktop\Final_Project_OOP2\FinalModule_Project\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\ref\MedicineStorePOSAndStockManagement.dll
+C:\Users\Dell\Desktop\Final_Project_OOP2\FinalModule_Project\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.pdb
+C:\Users\Dell\Desktop\Final_Project_OOP2\FinalModule_Project\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Dell\Desktop\Final_Project_OOP2\FinalModule_Project\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Dell\Desktop\Final_Project_OOP2\FinalModule_Project\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Dell\Desktop\Final_Project_OOP2\FinalModule_Project\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Dell\Desktop\Final_Project_OOP2\FinalModule_Project\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dell\Desktop\Final_Project_OOP2\FinalModule_Project\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dell\Desktop\Final_Project_OOP2\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Final_Project_OOP2\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.FormManager.resources
+C:\Users\Dell\Desktop\Final_Project_OOP2\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.FormOrder.resources
+C:\Users\Dell\Desktop\Final_Project_OOP2\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.FormOwner.resources
+C:\Users\Dell\Desktop\Final_Project_OOP2\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.FormReceipt.resources
+C:\Users\Dell\Desktop\Final_Project_OOP2\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.FormSalesman.resources
+C:\Users\Dell\Desktop\Final_Project_OOP2\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.Login.resources
+C:\Users\Dell\Desktop\Final_Project_OOP2\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.Properties.Resources.resources
+C:\Users\Dell\Desktop\Final_Project_OOP2\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\Final_Project_OOP2\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\Final_Project_OOP2\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Final_Project_OOP2\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Final_Project_OOP2\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Final_Project_OOP2\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.csproj.CopyComplete
+C:\Users\Dell\Desktop\Final_Project_OOP2\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.dll
+C:\Users\Dell\Desktop\Final_Project_OOP2\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\ref\MedicineStorePOSAndStockManagement.dll
+C:\Users\Dell\Desktop\Final_Project_OOP2\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.pdb
+C:\Users\Dell\Desktop\Final_Project_OOP2\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.genruntimeconfig.cache
+C:\Users\Tonmoy Saha\Desktop\project module\FinalModule_Project\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.exe
+C:\Users\Tonmoy Saha\Desktop\project module\FinalModule_Project\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.deps.json
+C:\Users\Tonmoy Saha\Desktop\project module\FinalModule_Project\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.runtimeconfig.json
+C:\Users\Tonmoy Saha\Desktop\project module\FinalModule_Project\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.runtimeconfig.dev.json
+C:\Users\Tonmoy Saha\Desktop\project module\FinalModule_Project\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.dll
+C:\Users\Tonmoy Saha\Desktop\project module\FinalModule_Project\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\ref\MedicineStorePOSAndStockManagement.dll
+C:\Users\Tonmoy Saha\Desktop\project module\FinalModule_Project\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.pdb
+C:\Users\Tonmoy Saha\Desktop\project module\FinalModule_Project\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Tonmoy Saha\Desktop\project module\FinalModule_Project\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Tonmoy Saha\Desktop\project module\FinalModule_Project\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Tonmoy Saha\Desktop\project module\FinalModule_Project\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Tonmoy Saha\Desktop\project module\FinalModule_Project\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Tonmoy Saha\Desktop\project module\FinalModule_Project\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Tonmoy Saha\Desktop\project module\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.csprojAssemblyReference.cache
+C:\Users\Tonmoy Saha\Desktop\project module\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.FormManager.resources
+C:\Users\Tonmoy Saha\Desktop\project module\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.FormOrder.resources
+C:\Users\Tonmoy Saha\Desktop\project module\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.FormOwner.resources
+C:\Users\Tonmoy Saha\Desktop\project module\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.FormReceipt.resources
+C:\Users\Tonmoy Saha\Desktop\project module\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.FormSalesman.resources
+C:\Users\Tonmoy Saha\Desktop\project module\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.Login.resources
+C:\Users\Tonmoy Saha\Desktop\project module\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.Properties.Resources.resources
+C:\Users\Tonmoy Saha\Desktop\project module\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.csproj.GenerateResource.cache
+C:\Users\Tonmoy Saha\Desktop\project module\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tonmoy Saha\Desktop\project module\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.AssemblyInfoInputs.cache
+C:\Users\Tonmoy Saha\Desktop\project module\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.AssemblyInfo.cs
+C:\Users\Tonmoy Saha\Desktop\project module\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.csproj.CoreCompileInputs.cache
+C:\Users\Tonmoy Saha\Desktop\project module\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.csproj.CopyComplete
+C:\Users\Tonmoy Saha\Desktop\project module\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.dll
+C:\Users\Tonmoy Saha\Desktop\project module\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\ref\MedicineStorePOSAndStockManagement.dll
+C:\Users\Tonmoy Saha\Desktop\project module\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.pdb
+C:\Users\Tonmoy Saha\Desktop\project module\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.genruntimeconfig.cache
+E:\Study\Programs\C Sharp\FinalModule_Project\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.exe
+E:\Study\Programs\C Sharp\FinalModule_Project\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.deps.json
+E:\Study\Programs\C Sharp\FinalModule_Project\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.runtimeconfig.json
+E:\Study\Programs\C Sharp\FinalModule_Project\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.runtimeconfig.dev.json
+E:\Study\Programs\C Sharp\FinalModule_Project\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.dll
+E:\Study\Programs\C Sharp\FinalModule_Project\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.pdb
+E:\Study\Programs\C Sharp\FinalModule_Project\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+E:\Study\Programs\C Sharp\FinalModule_Project\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Study\Programs\C Sharp\FinalModule_Project\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+E:\Study\Programs\C Sharp\FinalModule_Project\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+E:\Study\Programs\C Sharp\FinalModule_Project\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Study\Programs\C Sharp\FinalModule_Project\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Study\Programs\C Sharp\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.csproj.AssemblyReference.cache
+E:\Study\Programs\C Sharp\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.FormManager.resources
+E:\Study\Programs\C Sharp\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.FormOrder.resources
+E:\Study\Programs\C Sharp\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.FormOwner.resources
+E:\Study\Programs\C Sharp\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.FormReceipt.resources
+E:\Study\Programs\C Sharp\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.FormSalesman.resources
+E:\Study\Programs\C Sharp\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.Login.resources
+E:\Study\Programs\C Sharp\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.Properties.Resources.resources
+E:\Study\Programs\C Sharp\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.csproj.GenerateResource.cache
+E:\Study\Programs\C Sharp\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\Programs\C Sharp\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.AssemblyInfoInputs.cache
+E:\Study\Programs\C Sharp\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.AssemblyInfo.cs
+E:\Study\Programs\C Sharp\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.csproj.CoreCompileInputs.cache
+E:\Study\Programs\C Sharp\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.csproj.CopyComplete
+E:\Study\Programs\C Sharp\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.dll
+E:\Study\Programs\C Sharp\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\refint\MedicineStorePOSAndStockManagement.dll
+E:\Study\Programs\C Sharp\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.pdb
+E:\Study\Programs\C Sharp\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.genruntimeconfig.cache
+E:\Study\Programs\C Sharp\FinalModule_Project\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\ref\MedicineStorePOSAndStockManagement.dll
+D:\download\Medicine_Store_And_Stock_Management-main\Medicine_Store_And_Stock_Management-main\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.exe
+D:\download\Medicine_Store_And_Stock_Management-main\Medicine_Store_And_Stock_Management-main\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.deps.json
+D:\download\Medicine_Store_And_Stock_Management-main\Medicine_Store_And_Stock_Management-main\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.runtimeconfig.json
+D:\download\Medicine_Store_And_Stock_Management-main\Medicine_Store_And_Stock_Management-main\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.runtimeconfig.dev.json
+D:\download\Medicine_Store_And_Stock_Management-main\Medicine_Store_And_Stock_Management-main\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.dll
+D:\download\Medicine_Store_And_Stock_Management-main\Medicine_Store_And_Stock_Management-main\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.pdb
+D:\download\Medicine_Store_And_Stock_Management-main\Medicine_Store_And_Stock_Management-main\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\download\Medicine_Store_And_Stock_Management-main\Medicine_Store_And_Stock_Management-main\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\download\Medicine_Store_And_Stock_Management-main\Medicine_Store_And_Stock_Management-main\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\download\Medicine_Store_And_Stock_Management-main\Medicine_Store_And_Stock_Management-main\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\download\Medicine_Store_And_Stock_Management-main\Medicine_Store_And_Stock_Management-main\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\download\Medicine_Store_And_Stock_Management-main\Medicine_Store_And_Stock_Management-main\MedicineStorePOSAndStockManagement\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\download\Medicine_Store_And_Stock_Management-main\Medicine_Store_And_Stock_Management-main\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.csproj.AssemblyReference.cache
+D:\download\Medicine_Store_And_Stock_Management-main\Medicine_Store_And_Stock_Management-main\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.FormManager.resources
+D:\download\Medicine_Store_And_Stock_Management-main\Medicine_Store_And_Stock_Management-main\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.FormOrder.resources
+D:\download\Medicine_Store_And_Stock_Management-main\Medicine_Store_And_Stock_Management-main\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.FormOwner.resources
+D:\download\Medicine_Store_And_Stock_Management-main\Medicine_Store_And_Stock_Management-main\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.FormReceipt.resources
+D:\download\Medicine_Store_And_Stock_Management-main\Medicine_Store_And_Stock_Management-main\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.FormSalesman.resources
+D:\download\Medicine_Store_And_Stock_Management-main\Medicine_Store_And_Stock_Management-main\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.Login.resources
+D:\download\Medicine_Store_And_Stock_Management-main\Medicine_Store_And_Stock_Management-main\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.Properties.Resources.resources
+D:\download\Medicine_Store_And_Stock_Management-main\Medicine_Store_And_Stock_Management-main\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.csproj.GenerateResource.cache
+D:\download\Medicine_Store_And_Stock_Management-main\Medicine_Store_And_Stock_Management-main\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\download\Medicine_Store_And_Stock_Management-main\Medicine_Store_And_Stock_Management-main\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.AssemblyInfoInputs.cache
+D:\download\Medicine_Store_And_Stock_Management-main\Medicine_Store_And_Stock_Management-main\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.AssemblyInfo.cs
+D:\download\Medicine_Store_And_Stock_Management-main\Medicine_Store_And_Stock_Management-main\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.csproj.CoreCompileInputs.cache
+D:\download\Medicine_Store_And_Stock_Management-main\Medicine_Store_And_Stock_Management-main\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\Medicine.F1FCABB3.Up2Date
+D:\download\Medicine_Store_And_Stock_Management-main\Medicine_Store_And_Stock_Management-main\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.dll
+D:\download\Medicine_Store_And_Stock_Management-main\Medicine_Store_And_Stock_Management-main\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\refint\MedicineStorePOSAndStockManagement.dll
+D:\download\Medicine_Store_And_Stock_Management-main\Medicine_Store_And_Stock_Management-main\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.pdb
+D:\download\Medicine_Store_And_Stock_Management-main\Medicine_Store_And_Stock_Management-main\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\MedicineStorePOSAndStockManagement.genruntimeconfig.cache
+D:\download\Medicine_Store_And_Stock_Management-main\Medicine_Store_And_Stock_Management-main\MedicineStorePOSAndStockManagement\obj\Debug\net5.0-windows\ref\MedicineStorePOSAndStockManagement.dll
